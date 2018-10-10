@@ -1,5 +1,4 @@
 1. Python3 설치
-<<<<<<< HEAD
   
 2. awscli 패키지 설치
 $ pip install awscli --upgrade --user
