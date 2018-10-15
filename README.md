@@ -34,11 +34,13 @@ Setting 메뉴 : Ctrl + ,
 ##### 종합 #####
 - [클라우드 컴퓨팅이란?](http://aws.amazon.com/what-is-aws/)
 - [AWS 클라우드 제품](https://aws.amazon.com/products/)
+- [AWS 계정 루트 사용자](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html)
+- [계정 및 서비스 관리 작업](https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html)
 
 ##### 데이터베이스 #####
 - [AWS에서 데이터베이스 실행](http://aws.amazon.com/running_databases/)
 - [AWS Schema Conversion Tool](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_SchemaConversionTool.Installing.html)
--
+- [데이터 마이그레이션을 위한 네트워크 구성](https://docs.aws.amazon.com/ko_kr/dms/latest/userguide/CHAP_ReplicationInstance.VPC.html#CHAP_ReplicationInstance.VPC.Configurations)
 
 ## Github Source list
 Restoring a Backup into an Amazon RDS MySQL DB Instance
